@@ -1,7 +1,5 @@
 /*
     Yixin Zhang
-    Amath 483
-    HW #8
     06/07/15
 */
 
